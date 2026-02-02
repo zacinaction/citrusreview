@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /images/
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://reviewcitrusburn.netlify.app/sitemap.xml
